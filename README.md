@@ -106,7 +106,7 @@ Website komunitas content creator — 13 anggota, 4 divisi.
 |---|---|
 | 2026 — Sekarang | **Technical Support** @ lombakan.id (VeteranTech) |
 | 2025 — Sekarang | **Anggota** @ KSM VeteranTech — pelatihan Web Development (HTML, CSS, JS, React) |
-| 2025 | **Anggota** @ KSM Cyber Security — cryptography, web security, network security, CTF dasar |
+| 2025 — Sekarang | **Anggota** @ KSM Cyber Security — cryptography, web security, network security, CTF dasar |
 | 2024 — Sekarang | **S1 Sistem Informasi** @ UPN "Veteran" Jakarta — IPK 3.5+/4.00 |
 
 <br>
