@@ -14,15 +14,6 @@ Saya **Muhammad Zaidan**, mahasiswa **S1 Sistem Informasi, Universitas Pembangun
 
 Saya membangun di dua sisi sekaligus: **menulis kode** (web dengan React, Android dengan Kotlin) dan **mengujinya sampai benar-benar solid** lewat kerja QA/Technical Support. Kombinasi ini bikin saya terbiasa mikirin aplikasi bukan cuma dari "apakah fiturnya jalan", tapi juga "apa yang bisa bikin ini rusak".
 
-```
-const zaidan = {
-  location: "Jakarta Barat, Indonesia",
-  education: "S1 Sistem Informasi @ UPN Veteran Jakarta",
-  focus: ["Web Development", "Android Development", "QA & Technical Support"],
-  currentlyLearning: ["Advanced React patterns", "Structured testing workflows"],
-  funFact: "Ikut bangun aplikasi lalu bantu membongkarnya lewat testing 🔍"
-};
-```
 
 <br>
 
