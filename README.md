@@ -75,8 +75,8 @@ Platform event management — browse, cari, dan beli tiket event, dibangun dari 
 <td width="50%" valign="top">
 
 **[💳 Substracker](https://github.com/Zaidan59/Substracker)**
-Website untuk manajemen langganan digital (Netflix, Spotify, dll).
-`html` `CSS` `JavaSricpt`
+AplikasiAndroid untuk manajemen langganan digital (Netflix, Spotify, dll).
+`Kotlin` `Room`
 
 </td>
 </tr>
@@ -85,7 +85,7 @@ Website untuk manajemen langganan digital (Netflix, Spotify, dll).
 
 **[🎫 TicketVibe](https://github.com/Zaidan59/TicketVibe)**
 Aplikasi Android pemesanan tiket konser — proyek akhir individu KSM VeteranTech.
-`Android` `JavaScript`
+`html` `CSS` `JavaSricpt`
 
 </td>
 <td width="50%" valign="top">
