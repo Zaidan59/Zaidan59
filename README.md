@@ -75,8 +75,8 @@ Platform event management — browse, cari, dan beli tiket event, dibangun dari 
 <td width="50%" valign="top">
 
 **[💳 Substracker](https://github.com/Zaidan59/Substracker)**
-Aplikasi Android untuk manajemen langganan digital (Netflix, Spotify, dll).
-`Kotlin` `Room`
+Website untuk manajemen langganan digital (Netflix, Spotify, dll).
+`html` `CSS` `JavaSricpt`
 
 </td>
 </tr>
