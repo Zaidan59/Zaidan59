@@ -1,19 +1,3 @@
-## 👋 Tentang Saya
-
-Saya **Muhammad Zaidan**, mahasiswa **S1 Sistem Informasi, Universitas Pembangunan Nasional "Veteran" Jakarta** (IPK 3.5+/4.00), berbasis di Jakarta Barat, Indonesia.
-
-Saya membangun di dua sisi sekaligus: **menulis kode** (web dengan React, Android dengan Kotlin) dan **mengujinya sampai benar-benar solid** lewat kerja QA/Technical Support. Kombinasi ini bikin saya terbiasa mikirin aplikasi bukan cuma dari "apakah fiturnya jalan", tapi juga "apa yang bisa bikin ini rusak".
-
-<br>
-
-## 🔭 Sedang Dikerjakan
-
-- 🛠️ **Technical Support** di [lombakan.id](https://lombakan.id) — quality checking & web testing untuk platform persiapan lomba di bawah VeteranTech
-- 🧩 Memperdalam **React** lewat project-project frontend baru
-- 🔍 Membiasakan alur **QA yang lebih terstruktur** — test case documentation, cross-browser & performance testing (Lighthouse)
-
-<br>
-
 ## 🛠️ Tech Stack
 
 <div align="left">
